@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+#bovenbalk{
+	width: 100%;
+	background-color: black;
+	height: 55px;
+	margin: 0 0 0 0;
+}
+
+.text{
+	color: white;
+	text-align: center;
+	font-size: 45px;
+	font-family: "Impact";
+}
+
+.content{
+	width: 100%;
+	height: 1650px;
+	background-color: whitesmoke;
+}
+
+.koptext{
+	color: black;
+	font-size: 30px;
+	font-family: "Impact";
+	margin: 20px 0 0 20px;
+}
+
+#miniferre1{
+	margin-left: 250px;
+}
+
+#louis{
+	margin-left: 250px;
+}
+
+#johan{
+	margin-left: 250px;
+}
