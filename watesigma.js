@@ -22,6 +22,6 @@ function evil () {
 	
 }
 
-	for (var i=0; i<5; i++){
-		window.alert ("Maurice Donck wilt je locatie")
-	}
+//	for (var i=0; i<5; i++){
+//		window.alert ("Maurice Donck wilt je locatie")
+//	}
